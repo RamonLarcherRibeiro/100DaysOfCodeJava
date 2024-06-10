@@ -6,4 +6,4 @@
 ## 💻Roteiro de Estudos
 | Dia  | Tema       |
 | :---------------- | :--------- |
-| `01` | `01 - Classes e Objetos` | 
+| `01` | `Classes e Objetos` | 
