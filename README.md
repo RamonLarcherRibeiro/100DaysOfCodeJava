@@ -4,6 +4,7 @@
 
 
 ## 💻Roteiro de Estudos
-| Dia  | Tema       |
-| :---------------- | :--------- |
-| `01` | `Classes e Objetos` | 
+| Dia  | Tema       | Descrição |
+| :---------------- | :--------- | :--------- |
+| `01` | `Classes e Objetos` | `Criação de classes e instância de objetos, a base da POO.` |
+| `02` | `Atributos e encapsulamento` | `Restrição de acesso direto a alguns componentes de um objeto, usando getters e setters.` |
