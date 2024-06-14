@@ -9,3 +9,4 @@
 | `01` | `Classes e Objetos` | `Criação de classes e instância de objetos, a base da POO.` |
 | `02` | `Atributos e encapsulamento` | `Restrição de acesso direto a alguns componentes de um objeto, usando getters e setters.` |
 | `03` | `Heranças` | `Como criar e usar subclasses que herdam atributos e métodos de uma superclasse, permitindo a reutilização de código.` |
+| `04` | `Polimorfismo` | `Polimorfismo em tempo de compilação conhecido como sobrecarga (overloading) e em tempo de execução conhecido como sobrescrita (overriding)` |
