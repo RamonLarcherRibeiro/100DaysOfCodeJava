@@ -11,3 +11,4 @@
 | `03` | `Heranças` | `Como criar e usar subclasses que herdam atributos e métodos de uma superclasse, permitindo a reutilização de código.` |
 | `04` | `Polimorfismo` | `Polimorfismo em tempo de compilação conhecido como sobrecarga (overloading) e em tempo de execução conhecido como sobrescrita (overriding)` |
 | `05` | `Classes abstratas` | `O uso de classes abstratas, que não podem ser instanciadas diretamente, e podem conter métodos abstratos que devem ser implementados por classes filhas.` |
+| `06` | `Classes abstratas` | `O uso de interfaces para definir um conjunto de métodos que uma classe deve implementar, sem definir a implementação dos métodos.` |
