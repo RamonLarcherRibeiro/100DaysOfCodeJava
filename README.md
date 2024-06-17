@@ -12,3 +12,4 @@
 | `04` | `Polimorfismo` | `Polimorfismo em tempo de compilação conhecido como sobrecarga (overloading) e em tempo de execução conhecido como sobrescrita (overriding)` |
 | `05` | `Classes abstratas` | `O uso de classes abstratas, que não podem ser instanciadas diretamente, e podem conter métodos abstratos que devem ser implementados por classes filhas.` |
 | `06` | `Interfaces` | `O uso de interfaces para definir um conjunto de métodos que uma classe deve implementar, sem definir a implementação dos métodos.` |
+| `07` | `Classes anônimas` | `Classes anônimas em Java são um tipo especial de classe interna que não possuem um nome. Elas são úteis quando você precisa criar uma única instância de uma classe localmente, geralmente para sobrescrever métodos de uma classe ou interface. Elas são frequentemente usadas em combinação com interfaces e classes abstratas.` |
