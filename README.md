@@ -14,3 +14,4 @@
 | `06` | `Interfaces` | `O uso de interfaces para definir um conjunto de métodos que uma classe deve implementar, sem definir a implementação dos métodos.` |
 | `07` | `Classes anônimas` | `Classes anônimas em Java são um tipo especial de classe interna que não possuem um nome. Elas são úteis quando você precisa criar uma única instância de uma classe localmente, geralmente para sobrescrever métodos de uma classe ou interface. Elas são frequentemente usadas em combinação com interfaces e classes abstratas.` |
 | `08` | `Classes internas` | `Classes internas são classes definidas dentro de outras classes em linguagens de programação orientadas a objetos, como Java. Elas são úteis para agrupar lógica que faz parte de uma classe externa, permitindo um encapsulamento mais rigoroso e um design de código mais limpo.` |
+| `09` | `Enumerações (enums)` | `As enumerações, ou enums, em Java são um tipo especial de classe que representa um conjunto fixo de constantes. ` |
