@@ -17,3 +17,4 @@
 | `09` | `Enumerações (enums)` | `As enumerações, ou enums, em Java são um tipo especial de classe que representa um conjunto fixo de constantes. ` |
 | `10` | `Manipulação de exceções (try, catch, finally)` |`Em Java, a manipulação de exceções é feita através das estruturas try, catch e finally. Essas estruturas permitem que você lide com exceções que podem ocorrer durante a execução do seu código, garantindo que o programa não seja interrompido abruptamente.` |
 | `11` | `Exceções personalizadas` | `Como criar exceções personalizadas em Java, estendendo a classe Exception ou RuntimeException para representar erros específicos do aplicativo.` |
+| `12` | `Os diferentes níveis de acesso que podem ser aplicados a classes, atributos e métodos em Java, para controlar sua visibilidade e acesso por outras classes.` |
