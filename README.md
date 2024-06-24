@@ -19,3 +19,4 @@
 | `11` | `Exceções personalizadas` | `Como criar exceções personalizadas em Java, estendendo a classe Exception ou RuntimeException para representar erros específicos do aplicativo.` |
 | `12` | `Modificadores de acesso` | `Os diferentes níveis de acesso que podem ser aplicados a classes, atributos e métodos em Java, para controlar sua visibilidade e acesso por outras classes.` |
 | `13` | `Métodos estáticos e variáveis estáticas.` | `O uso de métodos e variáveis estáticas em uma classe, que pertencem à classe em vez de instâncias individuais da classe.` |
+| `14` | `Modificador final.` | `O modificador final pode ser aplicado a variáveis, métodos e classes para indicar que eles não podem ser alterados, sobrescritos ou estendidos, respectivamente.` |
