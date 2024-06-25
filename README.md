@@ -20,3 +20,4 @@
 | `12` | `Modificadores de acesso` | `Os diferentes níveis de acesso que podem ser aplicados a classes, atributos e métodos em Java, para controlar sua visibilidade e acesso por outras classes.` |
 | `13` | `Métodos estáticos e variáveis estáticas.` | `O uso de métodos e variáveis estáticas em uma classe, que pertencem à classe em vez de instâncias individuais da classe.` |
 | `14` | `Modificador final.` | `O modificador final pode ser aplicado a variáveis, métodos e classes para indicar que eles não podem ser alterados, sobrescritos ou estendidos, respectivamente.` |
+| `15` | `Implementação de toString, equals e hashCode` | `A implementação dos métodos toString, equals e hashCode em uma classe para fornecer representações de string, comparações de igualdade e cálculos de hash.` |
