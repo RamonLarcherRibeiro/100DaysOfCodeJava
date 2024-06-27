@@ -22,3 +22,4 @@
 | `14` | `Modificador final.` | `O modificador final pode ser aplicado a variáveis, métodos e classes para indicar que eles não podem ser alterados, sobrescritos ou estendidos, respectivamente.` |
 | `15` | `Implementação de toString, equals e hashCode` | `A implementação dos métodos toString, equals e hashCode em uma classe para fornecer representações de string, comparações de igualdade e cálculos de hash.` |
 | `16` | `Coleções (ArrayList, LinkedList, HashSet, HashMap)` | `O uso de coleções em Java para armazenar e manipular grupos de objetos, incluindo listas, conjuntos e mapas.` |
+| `17` | `Generics` | `Como usar generics em Java para criar classes, interfaces e métodos que podem funcionar com diferentes tipos de dados, fornecendo segurança de tipo em tempo de compilação.` |
