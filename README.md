@@ -24,3 +24,4 @@
 | `16` | `Coleções (ArrayList, LinkedList, HashSet, HashMap)` | `O uso de coleções em Java para armazenar e manipular grupos de objetos, incluindo listas, conjuntos e mapas.` |
 | `17` | `Generics` | `Como usar generics em Java para criar classes, interfaces e métodos que podem funcionar com diferentes tipos de dados, fornecendo segurança de tipo em tempo de compilação.` |
 | `18` | `Comparação de objetos (Comparable, Comparator)` | `O uso das interfaces Comparable e Comparator para permitir a comparação de objetos em Java, em ordem natural ou personalizada.` |
+| `19` | `Padrão Singleton ` | `A implementação do padrão Singleton em Java, que garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a essa instância.` |
