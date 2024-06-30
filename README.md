@@ -25,3 +25,4 @@
 | `17` | `Generics` | `Como usar generics em Java para criar classes, interfaces e métodos que podem funcionar com diferentes tipos de dados, fornecendo segurança de tipo em tempo de compilação.` |
 | `18` | `Comparação de objetos (Comparable, Comparator)` | `O uso das interfaces Comparable e Comparator para permitir a comparação de objetos em Java, em ordem natural ou personalizada.` |
 | `19` | `Padrão Singleton ` | `A implementação do padrão Singleton em Java, que garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a essa instância.` |
+| `19` | `Padrão Factory ` | `O uso do padrão Factory em Java para criar objetos sem especificar a classe exata do objeto que será criado, delegando a criação para uma classe Factory.` |
