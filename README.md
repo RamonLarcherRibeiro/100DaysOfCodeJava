@@ -26,3 +26,4 @@
 | `18` | `Comparação de objetos (Comparable, Comparator)` | `O uso das interfaces Comparable e Comparator para permitir a comparação de objetos em Java, em ordem natural ou personalizada.` |
 | `19` | `Padrão Singleton ` | `A implementação do padrão Singleton em Java, que garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a essa instância.` |
 | `20` | `Padrão Factory ` | `O uso do padrão Factory em Java para criar objetos sem especificar a classe exata do objeto que será criado, delegando a criação para uma classe Factory.` |
+| `21` | `Padrão Builder ` | `O uso do padrão Builder em Java para construir objetos complexos passo a passo, separando o processo de construção da representação final do objeto.` |
