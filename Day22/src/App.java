@@ -7,14 +7,14 @@ public class App {
 
         // Clonando o objeto original
         try {
-            Carro clonedo = (Carro) original.clone();
+            Carro clonado = (Carro) original.clone();
 
             // Modificando o clone
-            clonedo.setCor("Blue");
+            clonado.setCor("Blue");
 
             // Exibindo os detalhes dos carros
-            System.out.println("Original Car: " + original);
-            System.out.println("Cloned Car: " + clonedo);
+            System.out.println("Original : " + original);
+            System.out.println("Clonado : " + clonado);
 
         } catch (CloneNotSupportedException e) {
             e.printStackTrace();

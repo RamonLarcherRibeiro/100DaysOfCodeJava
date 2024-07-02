@@ -33,6 +33,6 @@ public class Carro implements Cloneable {
 
     @Override
     public String toString() {
-        return "Car{modelo='" + modelo + "', cor='" + cor + "'}";
+        return "Carro{modelo='" + modelo + "', cor='" + cor + "'}";
     }
 }
