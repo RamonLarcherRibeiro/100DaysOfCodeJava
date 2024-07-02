@@ -27,3 +27,5 @@
 | `19` | `Padrão Singleton ` | `A implementação do padrão Singleton em Java, que garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a essa instância.` |
 | `20` | `Padrão Factory ` | `O uso do padrão Factory em Java para criar objetos sem especificar a classe exata do objeto que será criado, delegando a criação para uma classe Factory.` |
 | `21` | `Padrão Builder ` | `O uso do padrão Builder em Java para construir objetos complexos passo a passo, separando o processo de construção da representação final do objeto.` |
+| `22` | `Padrão Prototype ` | `A implementação do padrão Prototype em Java, que permite a criação de novos objetos duplicando objetos existentes, sem depender de suas classes concretas.` |
+
