@@ -28,4 +28,6 @@
 | `20` | `Padrão Factory ` | `O uso do padrão Factory em Java para criar objetos sem especificar a classe exata do objeto que será criado, delegando a criação para uma classe Factory.` |
 | `21` | `Padrão Builder ` | `O uso do padrão Builder em Java para construir objetos complexos passo a passo, separando o processo de construção da representação final do objeto.` |
 | `22` | `Padrão Prototype ` | `A implementação do padrão Prototype em Java, que permite a criação de novos objetos duplicando objetos existentes, sem depender de suas classes concretas.` |
+| `23` | `Padrão Adapter` | `O uso do padrão Adapter em Java para permitir que interfaces incompatíveis funcionem juntas, convertendo a interface de uma classe em outra interface esperada pelo cliente.` |
+
 
