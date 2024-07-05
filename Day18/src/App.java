@@ -14,5 +14,8 @@ public class App {
         Collections.sort(pessoas,  Pessoa.idadeDecrescenteComparator); // Ordena pela ordem natural (idade)
         for (Pessoa pessoa : pessoas) {
             System.out.println(pessoa);
-        }    }
+        }    
+    
+    
+    }
 }
