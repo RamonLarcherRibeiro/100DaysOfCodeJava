@@ -32,3 +32,4 @@
 | `24` | `Padrão Decorator` | `A implementação do padrão Decorator em Java para adicionar comportamento adicional a um objeto de maneira dinâmica, sem alterar sua estrutura.` |
 | `25` | `Padrão Bridge` | `A implementação do padrão Bridge em Java para desacoplar uma abstração da sua implementação, permitindo que ambos possam variar independentemente.` |
 | `26` | `Spring Boot` | `Construindo uma API RESTful usando spring boot` |
+| `27` | `Spring Data JPA` | ` criar mapeamento de objeto relacional Java para a base de dados` |
