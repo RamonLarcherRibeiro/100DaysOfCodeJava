@@ -34,3 +34,4 @@
 | `26` | `Spring Boot` | `Construindo uma API RESTful usando spring boot` |
 | `27` | `Spring Data JPA` | ` Criando mapeamento de objeto relacional Java para a base de dados` |
 | `28` | `Padrão State` | `O uso do padrão State em Java para permitir que um objeto altere seu comportamento quando seu estado interno muda, como se o objeto tivesse mudado sua classe.` |
+| `29` | `Padrão Proxy` | `O uso do padrão Proxy em Java para fornecer um substituto ou representante de outro objeto para controlar o acesso a ele.` |
