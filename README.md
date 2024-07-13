@@ -37,3 +37,4 @@
 | `29` | `Padrão Proxy` | `O uso do padrão Proxy em Java para fornecer um substituto ou representante de outro objeto para controlar o acesso a ele.` |
 | `30` | `Padrão Chain of Responsibility` | `A implementação do padrão Chain of Responsibility em Java para passar uma solicitação por uma cadeia de manipuladores, até que um deles a processe.` |
 | `31` | `Padrão Command` | `O uso do padrão Command em Java para encapsular uma solicitação como um objeto, permitindo parametrizar clientes com filas, solicitações e operações.` |
+| `32` | `Padrão Interpreter` |`A implementação do padrão Interpreter em Java para definir uma gramática e um interpretador que usa a gramática para interpretar frases em uma linguagem.` |
