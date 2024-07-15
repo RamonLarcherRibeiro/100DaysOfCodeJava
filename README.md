@@ -39,3 +39,4 @@
 | `31` | `Padrão Command` | `O uso do padrão Command em Java para encapsular uma solicitação como um objeto, permitindo parametrizar clientes com filas, solicitações e operações.` |
 | `32` | `Padrão Interpreter` |`A implementação do padrão Interpreter em Java para definir uma gramática e um interpretador que usa a gramática para interpretar frases em uma linguagem.` |
 | `33` | `Padrão Iterator` |`O uso do padrão Iterator em Java para fornecer um meio de acessar os elementos de uma coleção sequencialmente, sem expor sua representação subjacente.` |
+| `34` | `Padrão Mediator` |`A implementação do padrão Mediator em Java para reduzir a complexidade das comunicações entre múltiplos objetos ou classes, centralizando o controle.` |
