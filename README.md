@@ -41,3 +41,4 @@
 | `33` | `Padrão Iterator` |`O uso do padrão Iterator em Java para fornecer um meio de acessar os elementos de uma coleção sequencialmente, sem expor sua representação subjacente.` |
 | `34` | `Padrão Mediator` |`A implementação do padrão Mediator em Java para reduzir a complexidade das comunicações entre múltiplos objetos ou classes, centralizando o controle.` |
 | `35` | `Padrão Memento` |`O uso do padrão Memento em Java para capturar e restaurar o estado interno de um objeto sem violar o encapsulamento.` |
+| `36` | `Padrão Observer` |`A implementação do padrão Observer em Java para definir uma dependência um-para-muitos entre objetos, para que quando um objeto muda de estado, todos os seus dependentes sejam notificados.` |
