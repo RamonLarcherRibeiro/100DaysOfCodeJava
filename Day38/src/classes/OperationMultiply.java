@@ -1,4 +1,4 @@
-package classes;
+package Day38.src.classes;
 
 public class OperationMultiply implements Strategy {
     @Override
