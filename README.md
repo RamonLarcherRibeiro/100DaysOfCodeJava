@@ -43,3 +43,4 @@
 | `35` | `Padrão Memento` |`O uso do padrão Memento em Java para capturar e restaurar o estado interno de um objeto sem violar o encapsulamento.` |
 | `36` | `Padrão Observer` |`A implementação do padrão Observer em Java para definir uma dependência um-para-muitos entre objetos, para que quando um objeto muda de estado, todos os seus dependentes sejam notificados.` |
 | `37` | `Padrão State` |`O uso do padrão State em Java para permitir que um objeto altere seu comportamento quando seu estado interno muda, como se o objeto tivesse mudado sua classe.` |
+| `38` | `Padrão Strategy` |`A implementação do padrão Strategy em Java para definir uma família de algoritmos, encapsulá-los e torná-los intercambiáveis, permitindo que o algoritmo varie independentemente dos clientes que o utilizam.` |
