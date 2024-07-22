@@ -44,3 +44,4 @@
 | `36` | `Padrão Observer` |`A implementação do padrão Observer em Java para definir uma dependência um-para-muitos entre objetos, para que quando um objeto muda de estado, todos os seus dependentes sejam notificados.` |
 | `37` | `Padrão State` |`O uso do padrão State em Java para permitir que um objeto altere seu comportamento quando seu estado interno muda, como se o objeto tivesse mudado sua classe.` |
 | `38` | `Padrão Strategy` |`A implementação do padrão Strategy em Java para definir uma família de algoritmos, encapsulá-los e torná-los intercambiáveis, permitindo que o algoritmo varie independentemente dos clientes que o utilizam.` |
+| `39` | `Padrão Template Method` |`O uso do padrão Template Method em Java para definir o esqueleto de um algoritmo em uma operação, postergando alguns passos para subclasses.` |
