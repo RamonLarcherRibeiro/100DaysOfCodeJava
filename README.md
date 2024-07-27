@@ -44,5 +44,6 @@
 | `36` | `Padrão Observer` |`A implementação do padrão Observer em Java para definir uma dependência um-para-muitos entre objetos, para que quando um objeto muda de estado, todos os seus dependentes sejam notificados.` |
 | `37` | `Padrão State` |`O uso do padrão State em Java para permitir que um objeto altere seu comportamento quando seu estado interno muda, como se o objeto tivesse mudado sua classe.` |
 | `38` | `Padrão Strategy` |`A implementação do padrão Strategy em Java para definir uma família de algoritmos, encapsulá-los e torná-los intercambiáveis, permitindo que o algoritmo varie independentemente dos clientes que o utilizam.` |
-| `39` | `Padrão Visitor` |`O uso do padrão Template Method em Java para definir o esqueleto de um algoritmo em uma operação, postergando alguns passos para subclasses.` |
-| `40` | `Padrão Template Method` |`A implementação do padrão Visitor em Java para representar uma operação a ser realizada nos elementos de uma estrutura de objeto, permitindo definir novas operações sem alterar as classes dos elementos sobre os quais opera.` |
+| `39` | `Padrão Template Method` |`O uso do padrão Template Method em Java para definir o esqueleto de um algoritmo em uma operação, postergando alguns passos para subclasses.` |
+| `40` | `Padrão Visitor` |`A implementação do padrão Visitor em Java para representar uma operação a ser realizada nos elementos de uma estrutura de objeto, permitindo definir novas operações sem alterar as classes dos elementos sobre os quais opera.` |
+| `41` | `Padrão Null Object` |`O uso do padrão Null Object em Java para fornecer um objeto que implementa uma interface esperada, mas não realiza nenhuma ação, substituindo a verificação de nulidade.` |
