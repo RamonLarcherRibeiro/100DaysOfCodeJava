@@ -48,3 +48,4 @@
 | `40` | `Padrão Visitor` |`A implementação do padrão Visitor em Java para representar uma operação a ser realizada nos elementos de uma estrutura de objeto, permitindo definir novas operações sem alterar as classes dos elementos sobre os quais opera.` |
 | `41` | `Padrão Null Object` |`O uso do padrão Null Object em Java para fornecer um objeto que implementa uma interface esperada, mas não realiza nenhuma ação, substituindo a verificação de nulidade.` |
 | `42` | `Padrão Data Access Object (DAO)` |`O uso do padrão Data Access Object (DAO) em Java para abstrair e encapsular todo o acesso a uma fonte de dados, fornecendo uma interface simples e consistente para operações de banco de dados.` |
+| `43` | `Padrão Data Transfer Object (DTO)` |`A implementação do padrão Data Transfer Object (DTO) em Java para transferir dados entre subsistemas de uma aplicação, reduzindo o número de chamadas de métodos necessárias para obter dados.` |
