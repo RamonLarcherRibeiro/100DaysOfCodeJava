@@ -47,3 +47,4 @@
 | `39` | `Padrão Template Method` |`O uso do padrão Template Method em Java para definir o esqueleto de um algoritmo em uma operação, postergando alguns passos para subclasses.` |
 | `40` | `Padrão Visitor` |`A implementação do padrão Visitor em Java para representar uma operação a ser realizada nos elementos de uma estrutura de objeto, permitindo definir novas operações sem alterar as classes dos elementos sobre os quais opera.` |
 | `41` | `Padrão Null Object` |`O uso do padrão Null Object em Java para fornecer um objeto que implementa uma interface esperada, mas não realiza nenhuma ação, substituindo a verificação de nulidade.` |
+| `42` | `Padrão Data Access Object (DAO)` |`O uso do padrão Data Access Object (DAO) em Java para abstrair e encapsular todo o acesso a uma fonte de dados, fornecendo uma interface simples e consistente para operações de banco de dados.` |
