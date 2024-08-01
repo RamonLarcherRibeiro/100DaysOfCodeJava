@@ -51,3 +51,4 @@
 | `43` | `Padrão Data Transfer Object (DTO)` |`A implementação do padrão Data Transfer Object (DTO) em Java para transferir dados entre subsistemas de uma aplicação, reduzindo o número de chamadas de métodos necessárias para obter dados.` |
 | `44` | `Padrão Repository` |`O uso do padrão Repository em Java para encapsular a lógica de armazenamento, recuperação e busca que emana diretamente da infraestrutura de persistência.` |
 | `45` | `Padrão Service` |`A implementação do padrão Service em Java para encapsular a lógica de negócios, fornecendo métodos que representam operações de negócios e ocultando detalhes de implementação.` |
+| `46` | `Padrão  Dependency Injection (DI)` |`O uso do padrão Dependency Injection (DI) em Java para fornecer as dependências de uma classe a partir de fora, promovendo a separação de preocupações e facilitando testes.` |
