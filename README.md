@@ -52,3 +52,4 @@
 | `44` | `Padrão Repository` |`O uso do padrão Repository em Java para encapsular a lógica de armazenamento, recuperação e busca que emana diretamente da infraestrutura de persistência.` |
 | `45` | `Padrão Service` |`A implementação do padrão Service em Java para encapsular a lógica de negócios, fornecendo métodos que representam operações de negócios e ocultando detalhes de implementação.` |
 | `46` | `Padrão  Dependency Injection (DI)` |`O uso do padrão Dependency Injection (DI) em Java para fornecer as dependências de uma classe a partir de fora, promovendo a separação de preocupações e facilitando testes.` |
+| `47` | `Padrão Lazy Initialization` |`O uso do padrão Lazy Initialization em Java para atrasar a criação de um objeto, o cálculo de um valor ou algum outro processo dispendioso, até que ele seja realmente necessário.` |
