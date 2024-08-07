@@ -55,3 +55,4 @@
 | `47` | `Padrão Lazy Initialization` |`O uso do padrão Lazy Initialization em Java para atrasar a criação de um objeto, o cálculo de um valor ou algum outro processo dispendioso, até que ele seja realmente necessário.` |
 | `48` | `Padrão Value Object` |`A implementação do padrão Value Object em Java para encapsular um conjunto de atributos em um único objeto, tornando-os imutáveis e promovendo o uso seguro em múltiplas threads.` |
 | `49` | `Padrão  Active Record ` |`A implementação do padrão Active Record em Java para encapsular a lógica de acesso a dados e lógica de negócios dentro de uma única classe de domínio.` |
+| `50` | `Padrão  Table Data Gateway` |`O uso do padrão Table Data Gateway em Java para encapsular toda a lógica de acesso a uma tabela de banco de dados em uma única classe.` |
