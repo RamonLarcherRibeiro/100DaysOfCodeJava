@@ -57,3 +57,4 @@
 | `49` | `Padrão  Active Record ` |`A implementação do padrão Active Record em Java para encapsular a lógica de acesso a dados e lógica de negócios dentro de uma única classe de domínio.` |
 | `50` | `Padrão  Table Data Gateway` |`O uso do padrão Table Data Gateway em Java para encapsular toda a lógica de acesso a uma tabela de banco de dados em uma única classe.` |
 | `51` | `Padrão Row Data Gateway ` |`A implementação do padrão Row Data Gateway em Java para encapsular o acesso a uma linha específica de uma tabela de banco de dados.` |
+| `52` | `Calculo de Média ` |`Um programa que calcula a média de um aluno` |
