@@ -58,3 +58,4 @@
 | `50` | `Padrão  Table Data Gateway` |`O uso do padrão Table Data Gateway em Java para encapsular toda a lógica de acesso a uma tabela de banco de dados em uma única classe.` |
 | `51` | `Padrão Row Data Gateway ` |`A implementação do padrão Row Data Gateway em Java para encapsular o acesso a uma linha específica de uma tabela de banco de dados.` |
 | `52` | `Calculo de Média ` |`Um programa que calcula a média de um aluno` |
+| `53` | `Ordenação de números` |`Um programa que ordena uma lista de números inteiros em ordem crescente.` |
