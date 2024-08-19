@@ -62,3 +62,4 @@
 | `54` | `Conta bancária` |`Implementar uma classe ContaBancária com métodos para depósito e saque.` |
 | `55` | `Removendo elementos duplicados` |`Implementar um método que remova todos os elementos duplicados de uma lista.` |
 | `56` | `Classe Funcionario` |`Criar uma classe Funcionario com métodos para calcular o salário com base em horas trabalhadas e taxa` |
+| `57` | `Verificação de Anagramas` |`Verificar se duas strings são anagramas uma da outra.` |
