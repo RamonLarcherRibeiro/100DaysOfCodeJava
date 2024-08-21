@@ -64,3 +64,4 @@
 | `56` | `Classe Funcionario` |`Criar uma classe Funcionario com métodos para calcular o salário com base em horas trabalhadas e taxa` |
 | `57` | `Verificação de Anagramas` |`Verificar se duas strings são anagramas uma da outra.` |
 | `58` | `Verificação de Anagramas 2` |`Verificar se duas strings são anagramas uma da outra.` |
+| `59` | `Substrings` |`Encontrar todas as substrings de uma string.` |
