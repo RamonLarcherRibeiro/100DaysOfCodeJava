@@ -65,3 +65,4 @@
 | `57` | `Verificação de Anagramas` |`Verificar se duas strings são anagramas uma da outra.` |
 | `58` | `Verificação de Anagramas 2` |`Verificar se duas strings são anagramas uma da outra.` |
 | `59` | `Substrings` |`Encontrar todas as substrings de uma string.` |
+| `60` | `Filtrar Lista com Condições` |`Dada uma lista de objetos Pessoa, crie um método que retorna apenas as pessoas com idade maior que 18, usando um loop for.	` |
